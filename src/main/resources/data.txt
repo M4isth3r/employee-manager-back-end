@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Carlos Manzanos",
+        "email": "carlos@mail.com",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+        "jobTitle": "Javascript",
+        "phone": "682683684"
+    },
+    {
+        "name": "Rosa Rodriguez",
+        "email": "rosa@mail.com",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+        "jobTitle": "UX/UI",
+        "phone": "612612612"
+    },
+    {
+        "name": "Cristina Gonzalez",
+        "email": "cristina@mail.com",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+        "jobTitle": "Java",
+        "phone": "678678678"
+    },
+    {
+        "name": "Alvaro Montes",
+        "email": "alvaro@mail.com",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar4.png",
+        "jobTitle": "Java",
+        "phone": "678678678"
+    },
+    {
+        "name": "Victor Martinez",
+        "email": "victor@mail.com",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar5.png",
+        "jobTitle": "React",
+        "phone": "693693693"
+    },
+]
